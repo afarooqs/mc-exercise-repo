@@ -1,0 +1,10 @@
+#Files
+.history
+.idea
+.project
+
+#Directories
+.idea/
+target/
+build/
+
