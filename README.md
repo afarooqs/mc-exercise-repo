@@ -1,37 +1,38 @@
-#mc-exercise-repo
+
+# mc-exercise-repo
 This is an exercise to find the longest word in a given sentence. 
 
-###Installation
+### Installation
 1. Clone the repository with git.
 2. Open IntelliJ IDE and select Import Project. 
 3. Browse to the project home directory.
 4. Select SBT in the next step and complete import.
 
-######Scala Installation
+###### Scala Installation
 `brew install scala`
-######SBT Installation
+###### SBT Installation
 `brew install sbt`
 
-###Usage
+### Usage
 1. The driver of this exercise is in `src/main/scala/com.mc.exercise/Sentences.scala`
 2. Right click in the class and Run.
 3. Enter the sentence you want to test and hit ENTER.
 
-###Running the tests
+### Running the tests
 Following test coverage is provided.
 
-#####Unit Tests
+##### Unit Tests
 None
 
-#####Integration Tests
+##### Integration Tests
 None
 
-#####Performance Tests
+##### Performance Tests
 None
 
-###Built With
+### Built With
 * Scala - 2.12.2 
 * SBT - 0.13.17
 
-###Authors
+### Authors
 Ahmed Farooq
